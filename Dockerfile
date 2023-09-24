@@ -1,0 +1,1 @@
+FROM lfex/lfe:latest
